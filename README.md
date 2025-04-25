@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="img/willianBrandao.jpg" alt="Willian Brandão" width="200" style="border-radius: 50%;">
+</p>
+
+
+---
 # Willian Brandão de Souza
 
 **Engenheiro Mecânico** (UFJF)  
